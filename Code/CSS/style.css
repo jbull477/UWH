@@ -1,0 +1,172 @@
+body 
+{
+	font-family: 'Alegreya Sans', sans-serif;
+	color: #FFFFFF;
+	background: #18453B repeat;
+}
+
+a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.nav a:hover
+{
+	background-color: #339900;
+}
+
+h1
+{
+	font-size: 1.750em;
+	letter-spacing: -1.5px;
+}
+
+h2
+{
+	font-size: 1.500em;
+	color: #FFFFFF;
+}
+
+.btn
+{
+	color: #0066AA;
+	background: #4FB69F no-repeat right top;
+	padding: 15px 30px;
+	margin: 40px 0px;
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+
+.btn:hover
+{
+	background-color: #4CC4A7;
+}
+
+.nav
+{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin: 10px 0 0 0;
+    padding:0;
+    text-align:center;
+}
+
+.nav li
+{
+    display:inline;
+}
+
+.nav a
+{
+    display:inline-block;
+    padding:10px;
+}
+
+#current-page
+{
+	border-bottom:1px solid #ccc;
+    border-width:4px 0;
+}
+
+#header-image
+{
+	text-align: center;
+}
+
+#banner-pic
+{
+	text-align: center;
+	margin: 75px 0px 0px 0px;
+}
+
+#intro
+{
+	margin: 5px 0 0 0;
+}
+
+#intro h1
+{
+	text-align: center;
+}
+
+#practice-schedule
+{
+	text-align: center;
+}
+
+#practice-header
+{
+	border-bottom:1px solid #ccc;
+    border-width:1px 0;
+}
+
+#practice-times
+{
+	margin: -15px 0 0 0;
+}
+
+#practice-times a
+{
+	color: #FF6666;
+	text-decoration: underline;
+}
+
+#video
+{
+	text-align: right;
+	padding: 0;
+    margin: 0;
+    border: none;
+}
+
+#about-pic
+{
+	padding-top: 125px;
+}
+
+#rules a
+{
+	color: #FF6666;
+	text-decoration: underline;
+}
+
+#usoa a
+{
+	color: #FF6666;
+	text-decoration: underline;
+}
+
+#left-pic
+{
+	padding-left: 20px;
+	padding-top: 7px;
+}
+
+#tournament-of-love
+{
+	padding-top: 15px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#roster img
+{
+	width: 75%;
+	height: 75%;
+}
+
+#copyright
+{
+	border-top: 8px solid #2A0400;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
+
+#social-media
+{
+	text-align: center;
+}
